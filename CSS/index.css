@@ -124,8 +124,7 @@ body .cartClick .modal div {
   text-decoration: none;
 }
 #header-sections nav .container .nav-bar .left-nav ul a:hover {
-  -webkit-text-decoration: solid;
-          text-decoration: solid;
+  text-decoration: solid;
 }
 #header-sections nav .container .nav-bar .right-nav {
   display: flex;
@@ -268,8 +267,7 @@ body .cartClick .modal div {
 #png-cart .container .in-cart .left .image img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   position: absolute;
   top: -50px;
 }
@@ -312,8 +310,7 @@ body .cartClick .modal div {
 #png-cart .container .in-cart .right .image img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   position: absolute;
   top: -50px;
 }
@@ -408,8 +405,7 @@ body .cartClick .modal div {
 #animals-cart .container .in-animals-cart .carts .image img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #animals-cart .container .in-animals-cart .carts:hover {
   scale: 1.05;
@@ -450,8 +446,7 @@ body .cartClick .modal div {
 #cart2 .container .animals-cart2 .carts .image img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #cart2 .container .animals-cart2 .carts:hover {
   scale: 1.05;
@@ -542,8 +537,7 @@ body .cartClick .modal div {
   border-radius: 20px;
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #spiderman .container .in-spiderman .left-spider {
   width: 48%;
@@ -666,8 +660,7 @@ body .cartClick .modal div {
 #toys .container .in-toys #finish-toys .image img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 20px;
 }
 #toys .container .in-toys #finish-toys .image:hover {
@@ -718,8 +711,7 @@ footer .container .footer-top ul a {
   text-decoration: none;
 }
 footer .container .footer-top ul a:hover {
-  -webkit-text-decoration: 1px solid white;
-          text-decoration: 1px solid white;
+  text-decoration: 1px solid white;
 }
 footer .container .footer-top div {
   display: flex;
